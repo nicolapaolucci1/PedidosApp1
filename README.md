@@ -115,7 +115,7 @@ Senha: 1234
 
 ## Autor
 
-- Seu nome aqui
+- Nicola Paolucci
 
 ---
 
